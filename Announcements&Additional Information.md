@@ -1,108 +1,164 @@
-## 5EPlay Professional Challenge Season 1
-### Announcement Date: July 18, 2026
+# 5E职业挑战赛S2赛事公告
 
-### Basic Event Timeline & Information
-- Announcement Date: July 18, 2026
-- Additional Information Publication Date: July 19, 2026
-- Invitation Date: August 18, 2026
-- Roster Lock Date: August 31, 2026
-- Open Registration Period: 00:00 September 7, 2026 – 24:00 September 11, 2026 (Beijing Time)
-- Open Qualifier Dates: September 14 – 17, 2026 (Beijing Time)
-- Group Stage (Main Event) Dates: September 19 – 22, 2026 (Beijing Time)
-- Playoff Stage Dates: September 24 – 27, 2026 (Beijing Time)
-- Event Organizer: 5EPlay
-- Event Tier: Tier 2 (Ranked Tournament)
-- Visa Region: Mainland China
-- Tournament Format: All stages held online
+## 5E职业挑战赛 第二赛季 \(5EPlay Professional Challenge Season 2\)
 
-### Team Registration & Direct VRS Invitation
-This tournament features both Direct VRS Invites and an Open Qualifier.
+### 赛事基础时间线与信息
 
-**Direct VRS Invites (8 teams):**
-- 8 teams will be directly invited to the Group Stage based on the **August 2026 China Regional VRS rankings**.
-- Invitations will be issued sequentially, starting from the #1 ranked team in the China Region VRS.
-- The most recent VRS publication as of the Invitation Date (August 18, 2026) will be used for issuing invites.
-- If any invited team declines or is ineligible, the tournament operator will proceed down the VRS ranking in order until all 8 Direct VRS Invite slots are filled.
-- All directly invited teams hold a Global VRS rank lower than #12 as of the Invitation Date, in compliance with Tier 2 tournament requirements.
-- A minimum of 3 players from the originally invited roster must participate in every match of the tournament. Failure to field at least 3 invited players will result in a forfeit for that match.
+- **邀请日期**：2026年11月20日
 
-**VRS Filter Applied:**
-- Region filter: China Region (teams must have a plurality of players with Chinese citizenship among players from the Asia region)
+- **阵容锁定日期**：2026年11月30日
 
-**Open Qualifier (8 teams advance):**
-- 8 additional teams will qualify for the Group Stage via the Open Qualifier.
-- Eligible Region: Teams registered under the China Region, defined in accordance with official Valve regulations and policies.
-- Registration Eligibility: Teams must consist of 5 starting players and up to 2 substitutes. All players must hold a valid 5EPlay account in good standing.
-- Registration Quota Cap: Maximum 24 teams for open registration.
-- Initial seeding will be determined using the August 2026 VRS rankings, as specified in the Additional Information announcement. Rosters without a Global VRS rank will not be seeded higher than VRS-ranked rosters.
+- **公开报名阶段**：2026年12月11日12:00 至 12月16日24:00（北京时间）
 
-**Wildcard Invites:**
-- No Wildcard invites will be issued for this tournament.
+- **公开预选赛日期**：2026年12月19日（北京时间）
 
-### Registration Process
-1. Submit registration via Google Form (Link TBD)
-2. Real-time registration roster with timestamps will be posted to a publicly viewable, read-only sheet (Link TBD)
-3. Registration order is determined by Google Form submission timestamp and is publicly inspectable.
-4. After form submission, send required team verification documents to our official email.
-5. All team verification materials must be submitted within 48 hours after registration to secure your team's tournament slot.
-6. Maximum 24 teams accepted; registrations beyond the cap will be waitlisted by submission order.
+- **小组赛（正赛）日期**：2026年12月21日至23日（北京时间）
 
-### Open Qualifier
-- This stage will be held online.
-- Format: 4 groups with round-robin matches
-- Group Composition: 6 teams per group
-- Match Format: All matches are Best of 1 (BO1)
-- Advancement Rule: Top 2 teams from each group advance to the Group Stage
-- Open Qualifier teams enter the tournament at the same stage as Direct VRS Invited teams (Group Stage)
+- **淘汰赛日期**：2026年12月24日至27日（北京时间）
 
-### Group Stage (Main Play-In Stage)
-- This stage will be held online.
-- Format: 16 teams compete under the Swiss System
-  - Rounds 1–2: BO1
-  - Advancement/elimination rounds: BO3
-- Advancement Rule: Teams with 3 wins advance to the Playoff Stage; teams with 3 losses are eliminated. Total 8 teams qualify for Playoffs.
-- All Direct VRS Invited teams start at the same stage; higher VRS-ranked teams do not enter at a later stage.
+- **赛事主办方**：5EPlay
 
-### Playoff Stage
-- This stage will be held online. 	
-- Format: Single-elimination bracket
-- All matches except the Grand Final: Best of 3 (BO3)
-- Grand Final: Best of 5 (BO5)
+- **赛事级别**：T2赛事\(Ranked Tournament\)
 
-### Prize Pool Distribution & Compensation
-**Total Prize Pool: 70,000 CNY**
-- Champion: 25,000 CNY
-- Runner-Up: 15,000 CNY
-- 3rd–4th Place: 7,000 CNY each
-- 5th–8th Place: 4,000 CNY each
+- **签证地区**：中国大陆
 
-**Payout Terms:**
-- All prize money will be transferred to the team's designated corporate bank account within 30 business days after the tournament concludes.
-- All relevant taxes incurred from prize winnings shall be borne solely by the awarded teams.
-- **No additional forms of compensation** (appearance fees, travel stipends, revenue shares, etc.) are provided for this tournament. Only the prize pool as listed above is distributed based on final standings.
-- Prize amounts strictly decrease by placement; prizes for identical placements are equal across all parallel qualifiers and groups.
+- **赛制**：所有阶段均在线上进行
 
-### Fairness & Eligibility Regulations
-**Disqualification & Ban Policy (applied uniformly to all participants):**
-The event organizer reserves the right to reject participation or disqualify any team or player under the following circumstances:
-- Players with an active VAC ban issued within the last 5 years from the tournament start date
-- Players who received a VAC ban after participating in any Valve VRS circuit tournament (including qualifiers)
-- Players or teams currently suspended by ESIC or with verified match-fixing records
-- Players or teams with permanent bans from third-party platforms for integrity violations
-- Players with VAC bans older than 5 years with no subsequent violations are not restricted from participation
+### 战队报名与VRS直接邀请
 
-These disqualification rules are applied uniformly and transparently to all participants, without discretionary exceptions.
+本次赛事将同时采用“VRS直接邀请”和“公开预选赛”两种选拔方式。
 
-**Non-Exclusivity:**
-The tournament operator does not engage in any agreements that restrict teams or players from participating in other tournaments. No exclusivity arrangements are in place.
+**VRS直接邀请（8支战队）：**
 
-**Non-Discriminatory Treatment:**
-All participants at the same stage of the tournament receive equal treatment in all aspects, including accommodations (not applicable for online event), technical support, preparation time, and rule enforcement. All prize and compensation structures are identical for all participants regardless of qualification method (Direct VRS Invite or Open Qualifier).
+- 以Valve官方**2026年11月的亚洲区（Asia）VRS 名单**为基础，附加"中国"地区筛选，8支战队按顺位直接受邀晋级小组赛。
 
-**Conflict of Interest Disclosure:**
-The tournament operator and event staff have no business relationships, shared management, shared ownership, licensing agreements, or loans with any participating teams. No entanglements exist that require disclosure to Valve.
+- 邀请将按顺位发出，从中国区VRS排名第一的战队开始。
 
-### Publication & Verifiability
-- All official tournament announcements are published simultaneously on the official 5EPlay website and a public GitHub repository to ensure version history is preserved and past posts cannot be modified.
-- Registration timestamps and order are publicly inspectable via a read-only public sheet.
-- The complete official rulebook will be released no later than September 1, 2026 (no less than two weeks prior to the tournament kickoff).
+- 邀请发出时，将采用截至邀请日期（2026年11月20日）最新发布的VRS排名。若邀请日期当日已有更新版本，则以最新版为准
+
+- 若有受邀战队拒绝邀请或不符合参赛资格，赛事运营方将按VRS排名顺序依次下移，直至填满8个VRS直邀名额。已拒绝本次邀请的阵容不得再接受。
+
+- 为符合二级赛事（Tier 2）的要求，所有受邀战队在邀请日期的全球VRS排名均需在12名开外（不含第12名）。
+
+- 在整个赛事的每场比赛中，最初受邀阵容中必须全程有至少3名队员上场参赛。若无法保证全程至少3名受邀队员上场，则该场比赛将被判负。
+
+**适用的VRS筛选条件：**
+
+- **地区筛选**：受邀阵容中来自亚洲地区的队员里，中国国籍队员须占相对多数；该筛选不对任何具体战队或阵容定向。
+
+**公开预选赛（8支战队晋级）：**
+
+- 另有8支战队将通过公开预选赛晋级小组赛。
+
+- **适用地区**：根据Valve官方规则和政策定义的、以中国为注册地、5 名首发中中国国籍选手占相对多数的战队。
+
+- **报名资格**：每支战队须由5名首发队员和最多2名替补队员组成。所有队员的5EPlay账号必须状态正常、无不良记录。
+
+- **报名名额上限**：公开报名上限为64支战队。
+
+- **初始种子顺位**：将使用2026年11月的VRS排名进行确定（详见补充信息公告）。无全球VRS排名的阵容，其种子顺位不得高于拥有VRS排名的阵容。
+
+**外卡邀请：**
+
+- 本届赛事不设外卡邀请。
+
+### 报名流程
+
+1. 通过5E对战平台创建战队并提交报名。
+
+2. 报名顺序由在5E对战平台的报名时间决定，并接受公开监督。
+
+3. 本次赛事最多接受64支战队报名；超出上限的战队将按提交顺序进入轮候名单（Waitlist）。
+
+### 公开预选赛
+
+- 本阶段比赛在线上进行。
+
+- **赛制**：单败淘汰制。
+
+- **比赛形式**：除首轮比赛为单局决胜制（BO1），其余比赛均为三局两胜制（BO3）。
+
+- **晋级规则**：共8支战队通过公开预选赛晋级淘汰赛。
+
+- 公开预选赛晋级战队与VRS直邀战队将同时进入正赛阶段（小组赛）。
+
+### 小组赛（正赛/主赛事阶段）
+
+- 本阶段比赛在线上进行。
+
+- **赛制**：16 支战队分为 A/B 两组，每组 8 支，组内双败淘汰制。所有比赛均为三局两胜制（BO3）。
+
+- **晋级规则**：A/B两组中，胜者组半决赛胜出的2支队伍与败者组半决赛胜出的2支队伍晋级。共8支战队晋级淘汰赛。
+
+- 所有VRS直邀战队均从该阶段起步，VRS排名较高的战队不会在更晚的阶段加入。
+
+### 淘汰赛
+
+- 本阶段比赛在线上进行。
+
+- **赛制**：单败淘汰制。
+
+- 除总决赛外，所有比赛均为三局两胜制（BO3）。
+
+- **总决赛**：五局三胜制（BO5）。
+
+### 奖金分配与补偿说明
+
+**总奖金池：70,000 元人民币（CNY）**
+
+- **冠军**：25,000 元人民币
+
+- **亚军**：15,000 元人民币
+
+- **3\-4名**：各 7,000 元人民币
+
+- **5\-8名**：各 4,000 元人民币
+
+**支付条款：**
+
+- 所有奖金将在赛事结束后30个工作日内，汇入战队指定的公司银行账户。
+
+- 因获得奖金而产生的所有相关税费，均由获奖战队自行承担。
+
+- **本届赛事不提供其他任何形式的补偿**（如出场费、差旅津贴、收入分成等）。仅根据最终名次发放上述奖金池。
+
+- 奖金金额随名次严格递减；在所有平行的预选赛和分组中，相同名次的奖金完全一致。
+
+### 公平性与参赛资格规定
+
+**取消资格与禁赛政策（一视同仁适用于所有参赛者）：**
+
+若存在以下情况，赛事主办方有权拒绝其参赛或取消战队/队员的参赛资格：
+
+- 在赛事开始之日起前5年内，曾受到过生效的 VAC 禁赛处罚的选手。
+
+- 在参加过任何 Valve VRS 赛事（包括预选赛）之后，收到过 VAC 禁赛处罚的选手。
+
+- 目前正处于 ESIC 禁赛期，或有证实存在假赛记录的选手/战队。
+
+- 因违反诚信原则而被第三方平台永久禁赛的选手/战队。
+
+- 选手若带有超过5年的 VAC 禁赛记录且此后无其他违规行为，其参赛资格不受限制。
+
+上述取消资格的规则将公平、透明地适用于所有参赛者，不设任何酌情豁免的特例。
+
+**非排他性：**
+
+赛事运营方不会签署任何限制战队或选手参加其他赛事的协议。本赛事无任何排他性约定。
+
+**非歧视待遇：**
+
+处于同一赛事阶段的所有参赛者，在所有方面均享有同等待遇，包括技术支持、准备时间以及规则执行（由于本次为线上赛，故不涉及住宿分配）。无论通过何种方式晋级（VRS直接邀请或公开预选赛），所有参赛者的奖金与补偿结构完全一致。
+
+**利益冲突披露：**
+
+赛事运营方及赛事工作人员，与任何参赛战队之间均不存在商业关系、共同管理关系、共同所有权、许可协议或贷款往来。不存在任何需要向 Valve 披露的利益纠葛。
+
+### 公布与可验证性
+
+- 所有赛事官方公告将同时发布在 5EPlay官方网站和一个公开的GitHub仓库中，以确保版本历史可溯，且以往发布的帖子无法被篡改。
+
+- 报名时间戳及顺序可通过一个只读的公开表格进行实时查验。
+
+- 完整的官方规则手册发布时间不晚于2026年12月1日（即赛事开幕前至少两周）。
+
